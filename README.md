@@ -41,13 +41,15 @@
       Examples :  
 
       Input : arr1[] = {5, 2, 8} 
-          arr2[] = {10, 7, 12} 
-          arr3[] = {9, 14, 6} 
+              arr2[] = {10, 7, 12} 
+              arr3[] = {9, 14, 6} 
+              
       Output : 7, 6, 5 
 
       Input : arr1[] = {15, 12, 18, 9} 
-          arr2[] = {10, 17, 13, 8} 
-          arr3[] = {14, 16, 11, 5} 
+              arr2[] = {10, 17, 13, 8} 
+              arr3[] = {14, 16, 11, 5} 
+              
       Output : 11, 10, 9 
       Note:The elements of the triplet are displayed in non-decreasing order. 
  
